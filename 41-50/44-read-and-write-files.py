@@ -1,6 +1,6 @@
 import random, os
 
-with open("sample-text.txt", "r") as content:
+with open("sample-texts/sample-text.txt", "r") as content:
     data = content.read()
     
 os.makedirs("sample-outputs", exist_ok=True)
