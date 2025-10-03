@@ -1,0 +1,10 @@
+{
+  "total_revenue": 205.9,
+  "total_items_sold": 231,
+  "unique_items": 21,
+  "top_item_by_revenue": {
+    "item": "pomegranate",
+    "revenue": 32.4
+  },
+  "skipped_rows": 0
+}
