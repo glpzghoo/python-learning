@@ -1,4 +1,4 @@
-# Project Name
+# Just a Python thing
 
 My Python Journey bla bla
 
