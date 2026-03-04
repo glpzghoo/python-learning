@@ -1,0 +1,4 @@
+Apple,Fruit,50
+Carrot,Veggie,20
+Banana,Fruit,30
+Broccoli,Veggie,10
