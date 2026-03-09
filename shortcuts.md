@@ -2,3 +2,4 @@
 
 cd pandas
 cd basics
+cd matplotlib
